@@ -179,10 +179,6 @@ is tagged correctly.
 
 ### [Nodejs](/nodejs)
 
-* [`node12`](/nodejs/12)
-  * `ghcr.io/idmja/yolks:nodejs_12`
-* [`node14`](/nodejs/14)
-  * `ghcr.io/idmja/yolks:nodejs_14`
 * [`node16`](/nodejs/16)
   * `ghcr.io/idmja/yolks:nodejs_16`
 * [`node17`](/nodejs/17)
