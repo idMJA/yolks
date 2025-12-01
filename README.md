@@ -175,7 +175,7 @@ is tagged correctly.
  * [`MongoDB 7`](/mongodb/7)
     * `ghcr.io/idmja/yolks:mongodb_7`
  * [`MongoDB 8`](/mongodb/8)
-    * `ghcr.io/idmja/yolks:mongodb_8` 
+    * `ghcr.io/idmja/yolks:mongodb_8`
 
 ### [Nodejs](/nodejs)
 
