@@ -46,4 +46,4 @@ jobs:
           push: true
           tags: |
             ghcr.io/${{ steps.lower-repo.outputs.repository }}/yolks:rust_${{ matrix.tag }}
-            ${{ github.repository_owner == 'pelican-eggs' && format('ghcr.io/parkervcp/yolks:rust_{0}', matrix.tag) || '' }}
+            ${{ github.repository_owner == 'pelican-eggs' && format('ghcr.io/idmja/yolks:rust_{0}', matrix.tag) || '' }}

@@ -22,7 +22,7 @@
 
 FROM        --platform=$TARGETOS/$TARGETARCH eclipse-temurin:8-jdk-noble
 
-LABEL       author="parkervcp" maintainer="parker@pelican.dev"
+LABEL       author="idmja" maintainer="parker@pelican.dev"
 
 LABEL       org.opencontainers.image.source="https://github.com/pelican-eggs/yolks"
 LABEL       org.opencontainers.image.licenses=MIT

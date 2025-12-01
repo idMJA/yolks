@@ -1,4 +1,4 @@
-FROM        --platform=$TARGETOS/$TARGETARCH golang:1.23-alpine
+FROM        --platform=$TARGETOS/$TARGETARCH golang:1.25-alpine
 
 LABEL       author="Kiyomi Fujiwara" maintainer="kiyomi@mjba.my"
 

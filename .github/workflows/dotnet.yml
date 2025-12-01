@@ -51,4 +51,4 @@ jobs:
           push: true
           tags: |
             ghcr.io/${{ steps.lower-repo.outputs.repository }}/yolks:dotnet_${{ matrix.tag }}
-            ${{ github.repository_owner == 'pelican-eggs' && format('ghcr.io/parkervcp/yolks:dotnet_{0}', matrix.tag) || '' }}
+            ${{ github.repository_owner == 'pelican-eggs' && format('ghcr.io/idmja/yolks:dotnet_{0}', matrix.tag) || '' }}
